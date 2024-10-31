@@ -19,9 +19,12 @@ our attention on the optimization in the MATLAB code. The results reported in th
 
 [1] Baviera, R. & Manzoni, P. (2024). Fast and General Simulation of Lévy-driven OU processes for Energy
 Derivatives. Preprint arXiv: :2401.15483.
+
 [2] Longstaff, F. A., & Schwartz, E. S. (2001). Valuing American options by simulation: a simple least-squares
 approach. The review of financial studies, 14(1), 113-147.
+
 [3] Sabino, P. (2022). Pricing energy derivatives in markets driven by tempered stable and CGMY processes of
 Ornstein–Uhlenbeck type. Risks, 10(8):148.
+
 [4] Sabino, P. & Cufaro Petroni, N. (2022). Fast simulation of tempered stable Ornstein–Uhlenbeck processes.
 Computational Statistics, 37(5):2517–2551.
