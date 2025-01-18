@@ -15,7 +15,7 @@ markets.
 We have developed a library in MATLAB and in Python in order to meet the requirements for
 the processes under study. For a better comprehension, the main script does not include all the
 tests conducted, but it does fulfill the assignment’s requirements. We focused
-our attention on the optimization in the MATLAB code. The results reported in the PDF document [Simulation of Lévy-driven OU Processes Report](./Simulation%20of%20Lévy-driven%20OU%20processes%20Report.pdf). are obtained using MATLAB; in Python the results are available in the Jupyter notebook.
+our attention on the optimization in the MATLAB code. The results reported in the PDF document [Simulation of Lévy-driven OU Processes Report](./Simulation%20of%20Lévy-driven%20OU%20processes%20Report.pdf) are obtained using MATLAB; in Python the results are available in the Jupyter notebook.
 
 [1] Baviera, R. & Manzoni, P. (2024). Fast and General Simulation of Lévy-driven OU processes for Energy
 Derivatives. Preprint arXiv: :2401.15483.
