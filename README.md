@@ -6,7 +6,7 @@ The aim of this project is to explore the simulation of two broad categories of 
 processes: Ornstein-Uhlenbeck (OU-Lévy) and Lévy-Ornstein-Uhlenbeck (Lévy-OU). Specifically, we
 focus on simulating Ornstein-Uhlenbeck Tempered Stable (OU-TS) and Tempered Stable Ornstein-
 Uhlenbeck (TS-OU) processes. To achieve this, we employ both the Exact Decomposition algorithm
-basedonthepropertyofself-decomposability(asdone in Sabino[4] and SabinoCufaro[5])andtheFast
+based on the property of self-decomposability(asdone in Sabino[4] and SabinoCufaro[5]) and the Fast
 General Monte Carlo method which requires only the characteristic function of the process (Baviera
 & Manzoni [2]). The ultimate goal of our work is to utilize these simulations to price energy European
 and American call options, since these kind of processes are able to capture the dynamics of energy
